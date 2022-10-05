@@ -84,7 +84,7 @@
         "/lib",
         "/messages"
     ],
-    "homepage": "https://github.com/mshanemc/shane-sfdx-plugins",
+    "homepage": "https://github.com/jimletts/shane-sfdx-plugins",
     "keywords": [
         "sfdx-plugin"
     ],
@@ -144,7 +144,7 @@
             "@oclif/plugin-help"
         ]
     },
-    "repository": "mshanemc/shane-sfdx-plugins",
+    "repository": "jimletts/shane-sfdx-plugins",
     "scripts": {
         "build": "rimraf lib && tsc",
         "clean": "rimraf .oclif.manifest.json; rimraf yarn-error.log; rimraf package-lock.json",
